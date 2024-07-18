@@ -10,4 +10,4 @@ Visit [here](https://abg.itch.io/runsantarun2) to download for android.
 
 
 ## 📸 Screenshots
-![gifmaker_me (1)](https://github.com/user-attachments/assets/aea4b7e2-ddf5-4871-8262-5d651fa25d00)
+![gifmaker_me (1)](https://github.com/user-attachments/assets/fd6ab9db-8ed7-4d95-8d5c-7cd80746f19e)
